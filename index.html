@@ -4,7 +4,7 @@ title: Ayşe Nur Zengin
 ---
 
 <div class="home" id="home">
-  <h1 class="pageTitle">Recent Posts</h1>
+  <h1 class="pageTitle">Son Gönderilenler</h1>
   <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
@@ -17,10 +17,10 @@ title: Ayşe Nur Zengin
   <!-- Pagination links -->
   <div class="pagination">
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Newer Posts</a> 
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Daha Yeniler</a> 
     {% endif %}
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Older Posts</a>
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Daha Eskiler</a>
     {% endif %}
   </div>
 </div>
