@@ -2,7 +2,7 @@ title: Ayşe Nur Zengin
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: https://aysenurzengin.github.io
-baseurl: "aysenurzengin.github.io"
+baseurl: "/"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
