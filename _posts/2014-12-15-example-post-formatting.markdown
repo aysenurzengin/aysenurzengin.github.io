@@ -1,14 +1,11 @@
 ---
 layout: post
-title:  "Example Post Formatting"
+title:  "Ionic Proje Oluşturma"
 date:   2019-03-02
 description: Merhaba arkadaşlar. Size bu yazımda Ionic-V3'te boş bir proje oluşturmaktan bahsedeceğim.
 ---
 
 <p class="intro"><span class="dropcap">M</span>erhaba arkadaşlar. Ionic ile ilgili başlangıç seviyesinde bir yazı paylaşacağım sizlerle. Yeni başlayanlar için yardımcı olacağını düşünüyorum. </p>
-
-
-Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
 
 Öncelikle projemizi yazmak için VS Code’a ihtiyacımız var. Menüden Terminal’e basarak oradan New Terminal’i seçmeniz gerekiyor. İsterseniz Ctrl+” yaparak da açabilirsiniz. Projeyi nerede oluşturacaksanız o klasörün içinde olduğunuza emin olmalısınız.
 Ionic projesi oluştururken;
